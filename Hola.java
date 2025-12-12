@@ -11,10 +11,4 @@ public class Hola {
 		System.out.println("Hola"+nombre);
 			new Adios(nombre);
 	}
-}	
-public class Hola {
-public static void main(String[]args){
-System.out.println("Hola putos");
-
- }
 }
